@@ -1,9 +1,11 @@
 {
-  "main": "bot.js"
-  "scripts": {
-    "start": "node bot.js" 
-   }
-   "version": "0.0.0.0"
+  {
+    "main": "bot.js"
+    "scripts": {
+      "start": "node bot.js" 
+     }
+     "version": "0.0.0.0"
+  }
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
